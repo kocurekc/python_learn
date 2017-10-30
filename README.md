@@ -8,3 +8,10 @@
 #python arimax
 #http://www.jmlr.org/papers/volume17/15-355/15-355.pdf
 #Factorization Machine
+
+
+#Kaggle Links
+#Good for maps
+#https://www.kaggle.com/daveianhickey/using-basemap-for-geographical-data
+#Good for plotting
+#https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-cryptocurrencies
