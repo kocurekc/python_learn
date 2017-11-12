@@ -25,6 +25,7 @@ https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-pytho
 
 #buy_sell_time_series (deer)
 http://deer.readthedocs.io/en/latest/user/environments/toy_env_time_series.html
+#pyfolio http://quantopian.github.io/pyfolio/notebooks/bayesian/
 
 #tensor_flow_RL
 https://medium.com/emergent-future
