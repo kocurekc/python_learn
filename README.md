@@ -24,9 +24,9 @@ https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-pytho
 
 
 #buy_sell_time_series (deer)
-http://deer.readthedocs.io/en/latest/user/environments/toy_env_time_series.html
-#pyfolio http://quantopian.github.io/pyfolio/notebooks/bayesian/
-
+http://deer.readthedocs.io/en/latest/user/environments/toy_env_time_series.html <br>
+#pyfolio http://quantopian.github.io/pyfolio/notebooks/bayesian/ <br>
+#LSTM Stock https://github.com/BenjiKCF/Neural-Network-with-Financial-Time-Series-Data
 #tensor_flow_RL
 https://medium.com/emergent-future
 https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2
