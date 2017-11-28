@@ -40,7 +40,8 @@ https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow
 #Ploting - shading regions
 #http://www.blackarbs.com/blog/advanced-time-series-plots-in-python/1/6/2017
 
-
+#Rl Leaning, Lots of links
+https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-reinforcement-learning.md
 
 #RL Learning, spend time here
 #https://github.com/MorvanZhou
